@@ -17,7 +17,6 @@ function golfScore(par, strokes) {
   } else {
     return names[6];
   }
-
   // Only change code above this line
 }
 
