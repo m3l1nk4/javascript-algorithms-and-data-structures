@@ -4,7 +4,7 @@
 
 *** 
 
-  - [ ] Basic JavaScript
+  - [x] Basic JavaScript
   - [ ] ES6
   - [ ] Regular Expressions
   - [ ] Debugging
